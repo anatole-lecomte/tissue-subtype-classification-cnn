@@ -58,10 +58,10 @@ The task is to predict the molecular subtype of diseased tissue — **Luminal A*
 The notebook was built for Google Colab (Kaggle API download, GPU runtime) and expects a Kaggle API token to fetch the competition dataset, which is not included in this repository.
 
 ## Authors
-
+Politecnico di Milano — Artificial Neural Networks and Deep Learning
 - BENKIRANE Ilyas
 - LECOMTE Anatole
 - LUNEAU Nathan
 
   
-Politecnico di Milano — Artificial Neural Networks and Deep Learning
+
