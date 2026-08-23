@@ -59,5 +59,9 @@ The notebook was built for Google Colab (Kaggle API download, GPU runtime) and e
 
 ## Authors
 
-Ilyas Benkirane, Anatole Lecomte, Nathan Luneau
+- BENKIRANE Ilyas
+- LECOMTE Anatole
+- LUNEAU Nathan
+
+  
 Politecnico di Milano — Artificial Neural Networks and Deep Learning
