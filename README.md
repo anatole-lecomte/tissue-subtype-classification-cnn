@@ -6,7 +6,7 @@ CNN-based classification of diseased human tissue into four molecular subtypes f
 
 ## Overview
 
-The task is to predict the molecular subtype of diseased tissue (**Luminal A**, **Luminal B**, **HER2(+)**, or **Triple Negative**) from low-magnification whole-slide images, each paired with an optional binary mask highlighting regions likely to contain diseased tissue. Unlike the team's first AN2DL challenge (models trained from scratch only), this challenge allowed pretrained architectures, and was evaluated with F1-score to reward balanced performance across the four subtypes.
+The task is to predict the molecular subtype of diseased tissue (**Luminal A**, **Luminal B**, **HER2(+)**, or **Triple Negative**) from low-magnification whole-slide images, each paired with an optional binary mask highlighting regions likely to contain diseased tissue. Unlike the team's first AN2DL challenge (https://github.com/anatole-lecomte/pirate-pain-rnn-classification) (models trained from scratch only), this challenge allowed pretrained architectures, and was evaluated with F1-score to reward balanced performance across the four subtypes.
 
 **Dataset**: 691 image/mask pairs, variable image sizes, with a noisy real-world twist: some samples were fully replaced by unrelated content, and others carried localized greenish stain-like artifacts requiring targeted cleaning.
 
